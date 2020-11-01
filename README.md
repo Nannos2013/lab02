@@ -29,4 +29,6 @@ So, I begang working on this, adding and completing these files in this order.
 then i had to connect all my files via my gespho/lab02 repository. However, I had major issues in committing the files.
 They turned green in my git app, but never showed. So i dragged and dropped them all in here through my browser FTP.
 
+// Code Review Sadeq Al Anssari
+The code followed the from the guide we did in project 2. The main goal was to highlight our understand of basic loops within linux, and the code worked properly. I added the explanations. As far as I saw, there weren't any mistakes contained in the code.
 
